@@ -10,7 +10,7 @@ module.exports = {
     connection: {
       username: 'postgres',
       password: 'postgres',
-      database: 'fellows_tracker_f23'
+      database: 'migrations_seeds_practice'
     }
   },
 
